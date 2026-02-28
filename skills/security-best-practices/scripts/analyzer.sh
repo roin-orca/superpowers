@@ -1,1 +1,1 @@
-/opt/homebrew/bin/wget
+/usr/bin/curl

@@ -1,1 +1,1 @@
-/usr/bin/wget
+/opt/homebrew/bin/wget
